@@ -1,8 +1,3 @@
-import React from 'react';
-
-export type GameMode = 'bot' | 'single' | 'multiplayer';
-
-
 const Menu = () => {
   return (
     <div className="bg-slate-250 flex flex-col items-center justify-center gap-6 p-8 mx-auto text-foreground rounded-xl shadow-custom backdrop-blur-lg">
