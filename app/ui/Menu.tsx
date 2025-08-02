@@ -2,7 +2,7 @@ const Menu = () => {
   return (
     <div className="bg-slate-250 flex flex-col items-center justify-center gap-6 p-8 mx-auto text-foreground rounded-xl shadow-custom backdrop-blur-lg">
       <h1 className="text-base sm:text-lg md:text-xl lg:text-2xl font-bold mb-2">
-        Let's Play
+        {"Let's Play"}
       </h1>
       
       <div className="grid grid-cols-1 gap-4 w-full max-w-md">
